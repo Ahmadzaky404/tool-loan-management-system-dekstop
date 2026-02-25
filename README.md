@@ -80,7 +80,7 @@ mysql -u root -p peminjaman_alat < fix_tanggal_kembali.sql
 python setup_sample_data.py
 ```
 
-4. Edit `config.py` dan sesuaikan password MySQL:
+4. Edit `config.py` dan sesuaikan password MySQL: (Opsional)
 
 
 ### Instalasi Manual (Jika Tidak Pakai run.bat)
@@ -166,7 +166,8 @@ Untuk dokumentasi lengkap, lihat:
 
 **Nama:** Ahmad Zaky  
 **Kelas:** XI-RPL  
-**Project:** Tool Loan Management System  
+**Project:** Tool Loan Management System Basis Dekstop
+
 **Tahun:** 2026
 
 ---
