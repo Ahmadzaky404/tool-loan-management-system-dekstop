@@ -80,7 +80,7 @@ mysql -u root -p peminjaman_alat < fix_tanggal_kembali.sql
 python setup_sample_data.py
 ```
 
-4. Edit `config.py` dan sesuaikan password MySQL:
+4. Edit `config.py` dan sesuaikan password MySQL: (Opsional)
 
 
 ### Instalasi Manual (Jika Tidak Pakai run.bat)
