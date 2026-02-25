@@ -164,11 +164,12 @@ Untuk dokumentasi lengkap, lihat:
 
 ## Author
 
-**Nama:** Romeo Aditya  
+**Nama:** Ahmad Zaky  
 **Kelas:** XI-RPL  
 **Project:** Tool Loan Management System  
 **Tahun:** 2026
 
 ---
 
-**Versi:** 1.1.0 | **Lisensi:** MIT
+**Versi:** 1.1.0  
+**Catatan:** Project ini dibuat untuk keperluan tugas sekolah dan pembelajaran.
