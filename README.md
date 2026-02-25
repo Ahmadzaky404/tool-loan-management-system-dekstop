@@ -164,9 +164,9 @@ Untuk dokumentasi lengkap, lihat:
 
 ## Author
 
-**Nama:** Romeo Aditya  
+**Nama:** Ahmad Zaky
 **Kelas:** XI-RPL  
-**Project:** Tool Loan Management System  
+**Project:** Tool Loan Management System Basis Dekstop
 **Tahun:** 2026
 
 ---
